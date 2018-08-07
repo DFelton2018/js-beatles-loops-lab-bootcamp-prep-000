@@ -27,7 +27,11 @@ function iLoveTheBeatles(n){
   var array = [];
 
   do {
+<<<<<<< HEAD
     array.push('I love the Beatles!');
+=======
+    array.push('I Love the Beatles!');
+>>>>>>> 7e5c5af8d79d007c6646dda7fbaa2a47f1c97978
     n++;
   }
   while (n < 15);
